@@ -30,7 +30,7 @@ Este projeto foi criado com o propósito de estudo e aprimoramento em desenvolvi
 
 ## 🔧 Tecnologias Utilizadas
 
-- Java 21+
+- Java 24
 - Spring Boot
 - Spring Web
 - Spring Data JPA
